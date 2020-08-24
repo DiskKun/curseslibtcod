@@ -18,6 +18,7 @@ curses.cbreak()
 stdscr.keypad(True)
 curses.curs_set(0)
 stdscr.resize(24, 80)
+curses.flushinp()
 
 ## Initialize color pairs
 curses.init_pair(1, curses.COLOR_CYAN, curses.COLOR_BLACK)
