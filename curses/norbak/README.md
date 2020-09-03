@@ -3,10 +3,10 @@
 version: 0.32
 
 Changelog:
-v0.32:
+v0.3.2:
  - Removed input queuing. Now when you press a key or perform any other type of input, those inputs will be "flushed" from the queue.
 
-v0.31:
+v0.3.1:
  - Added typetext skipping; for text that appears one character at a time, you can press space to display the full text instantly.
 
 v0.3:
