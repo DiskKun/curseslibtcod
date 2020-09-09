@@ -866,6 +866,7 @@ def menu(title, titleattr, option1, option2, option3="", option4="", option5="",
 			attr5 = 0
 			sttr6 = 0
 			attr7 = 0
+			
 def typetext(y, text, attr):
 	for i in range(len(text)):
 		#playsound("./sounds/click.wav", False)
