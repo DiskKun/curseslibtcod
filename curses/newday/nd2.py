@@ -28,7 +28,7 @@ def main(stdscr):
 	stdscr.refresh()
 	time.sleep(1)
 
-	file = open("newday1.txt", "r")
+	file = open("newday2.txt", "r")
 
 	while exitprg == False:
 		col = 1
