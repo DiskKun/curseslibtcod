@@ -1,0 +1,181 @@
+It is a NEW DAY.
+You are in your bed.
+Your mother is not calling you.
+You should probably still get out of bed.
+
+You are still in bed.
+You are very tired.
+You have no motivation to leave bed.
+You think about work.
+You do not have work today.
+
+You are still in bed.
+It has been a number of minutes.
+You pay attention to the SOUNDS around you.
+You can hear a clock ticking downstairs.
+You can hear CARS driving past your house.
+You can hear the buzzing of ELECTRICITY.
+You can hear your NEIGHBOUR mowing their LAWN.
+
+You are still in bed.
+It has been a number of minutes.
+The sounds have stopped.
+You listen attentively.
+You can still hear a clock.
+You grow suspicious of this clock.
+
+You are still in bed.
+The clock is displeasing you.
+It does not tick at a steady rate.
+Maybe you should get out of bed and look at it.
+You open your EYES.
+
+You are out of bed.
+You decide to stay in your nightwear.
+You leave your room.
+
+You are in the living room.
+This place haunts you at the moment.
+You wish there was a light you could turn on.
+There is no light.
+The clock is here.
+The clock is ticking.
+You feel like the clock is getting louder.
+You know that is not true.
+It is just your imagination.
+Your heart is beating very quickly.
+Your heart is beating faster than the ticking of the clock.
+You decide that this is normal.
+You leave the living room.
+
+You are in your HALLWAY.
+There is not much here.
+There is a FRONT DOOR.
+There is a BASEMENT DOOR.
+There is a BATHROOM DOOR.
+You feel like you need to open one of these doors.
+You decide against it.
+For now.
+You leave the hallway.
+
+You are in the kitchen.
+You begin to feel hungry.
+Perhaps you should eat something other than cereal today.
+You look for a FRUIT.
+You find a PEACH.
+Peaches are normally appetizing to you.
+This peach is unappetizing.
+You eat it anyways.
+
+You are done eating the peach.
+You are still hungry.
+You leave the kitchen.
+
+You are in a new hallway.
+This hallway has five doors.
+There are three BEDROOM DOORS.
+One of these is yours.
+There is one MASTER BEDROOM DOOR.
+There is one bathroom door.
+You decide it would be a good idea to use the bathroom.
+You enter the bathroom.
+
+You are in the bathroom.
+You use the toilet.
+
+You wash your hands.
+You look at yourself in the mirror.
+You are unappetizing.
+This displeases you.
+You try to make yourself look better.
+You tidy your hair.
+You wash your face.
+You suck in your stomach.
+You reposition your clothes.
+
+You look worse.
+You give up.
+You leave the bathroom.
+
+You are in your room.
+You are still tired.
+You enter your bed.
+You try to get some unneeded rest.
+
+You succeed.
+
+You feel somewhat energized.
+You have come to accept that your clock ticks irregularly.
+You do not want to have to go into your living room again.
+But you will not say that to anybody.
+You are bored.
+You want to read something.
+You look to your bookshelf.
+There is nothing of interest.
+You take a book off the shelf.
+The book is called "Hey There, Are You Okay?"
+You were given this book as a gift.
+You had recently done something that made someone give this book to you.
+You remember what it was, and who it was. 
+You do not like thinking about it.
+You read the book.
+
+The book has made you sad.
+It made you remember BETTER TIMES.
+You can not recall what exactly about these times were better.
+Angered, you throw the book across your room.
+You lie back down.
+You stare at the CEILING.
+The ceiling is flat.
+The ceiling has many SHADOWS being cast upon it.
+The shadows are moving.
+This displeases you.
+You leave your room.
+
+You are in the kitchen.
+Your mother enters through the front door.
+She is now home.
+You feel safe.
+She asks you what you got up to today.
+You do not say anything.
+She asks you what is wrong.
+You do not say anything.
+Your mother has a sad look on her face.
+She looks as though she is about to cry.
+This displeases you.
+You now have a sad look on your face.
+You look as though you are about to cry.
+You run back to your room.
+
+You are in your room.
+You are crying.
+You are not sad.
+Your mother's face made you feel a certain way.
+You want to go to her.
+You want to apologize to her.
+You are afraid to do so.
+Maybe she will come to you.
+
+It has been a number of hours.
+Your mother has not come to you.
+This displeases you.
+You feel guilty.
+Perhaps you will live with this guilt for the rest of your life.
+You do not want to think about that.
+You go to your bed.
+You decide against entering it.
+You lie down on the floor next to it.
+It is carpeted.
+You quickly fall asleep.
+
+You dream of your father.
+You have mixed feelings about this.
+Your father is very nice in your dreams.
+He lends you his hand in your dream.
+He tells you things that you want to hear in your dream.
+You wish he was like that in real life.
+You dream of your mother.
+This displeases you.
+
+It is a NEW DAY.
+But you do not want to wake up just yet.
