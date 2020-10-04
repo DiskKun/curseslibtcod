@@ -22,4 +22,4 @@ imports: curses (windows-curses on Windows), random, time, playsound
 
 Space is the select key, rather than enter. Curses doesn't work well with the enter key, for some reason. The only exception to this is when you are inputing your name, here enter will work.
 
-© 2020 Sinus-Navel
+© 2020 Ninus-Savel
