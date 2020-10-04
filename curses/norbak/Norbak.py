@@ -72,8 +72,8 @@ def main(stdscr):
 def intro():
 	#playsound("./sounds/intro.wav", False)
 	num0 = 10
-	title1 = "A LucasH-DiskKun Production"
-	title2 = "In Association With Tember.ca"
+	title1 = "A Ninus-Savel Production"
+	title2 = "In Association With A Company"
 	title3 = "THE FIRES OF NORBAK"
 	box()
 	for i in range(5):
