@@ -1,5 +1,3 @@
-This source code was found. The game is not complete. The below text is the original readme file.
-
 # The Fires of Norbak
 
 version: 0.32
@@ -21,5 +19,3 @@ v0.2:
 imports: curses (windows-curses on Windows), random, time, playsound
 
 Space is the select key, rather than enter. Curses doesn't work well with the enter key, for some reason. The only exception to this is when you are inputing your name, here enter will work.
-
-© 2020 Ninus-Savel
