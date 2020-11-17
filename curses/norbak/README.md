@@ -1,6 +1,6 @@
 # The Fires of Norbak
 
-version: 0.32
+version: 0.3.2
 
 Changelog:
 v0.3.2:
